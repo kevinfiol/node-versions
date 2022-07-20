@@ -15,3 +15,4 @@ Tools I use for Node development:
   * [esbuild](https://github.com/evanw/esbuild) - A simple and fast bundler.
   * [servbot](https://github.com/kevinfiol/servbot) - A personal fork of servor for SPA development.
   * [ley](https://github.com/lukeed/ley) - Database migrations.
+  * [bundt](https://github.com/lukeed/bundt) - A bundler for single-file modules.

@@ -12,6 +12,7 @@
   "devDependencies": {
     "esbuild": "0.14.28",
     "servbot": "0.2.2",
-    "cheap-watch": "1.0.4"
+    "cheap-watch": "1.0.4",
+    "bundt": "1.1.5"
   }
 }

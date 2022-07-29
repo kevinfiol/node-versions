@@ -4,7 +4,7 @@ The versions of Node and NPM packages that I currently use.
 
 Tools I use for Node development:
 
-* [fnm](https://github.com/Schniz/fnm) - Node version management
+* [fnm](https://github.com/Schniz/fnm) - Node version management. I used to use and still love `volta`.
 * [pnpm](https://github.com/pnpm/pnpm) - Fast and disk-space friendly package manager.
 * `dependencies`
   * [mithril](https://github.com/MithrilJS/mithril.js) - A common sense front-end framework.

@@ -10,7 +10,7 @@
     "yeahjs": "0.3.0"
   },
   "devDependencies": {
-    "esbuild": "0.14.28",
+    "esbuild": "0.15.16",
     "servbot": "0.2.6",
     "cheap-watch": "1.0.4",
     "bundt": "1.1.5"
